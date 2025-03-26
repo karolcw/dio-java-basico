@@ -1,5 +1,5 @@
 public class MinhaClasse {
     public static void main(String[] args) {
-        System.out.printf("Hello wordl");
+        System.out.printf("Hello world!");
     }
 }
